@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/indexation")
-@Tag(name = "Region endpoints")
+@Tag(name = "Service endpoints")
 public class IndexServiceController {
 
     private final IndexService indexService;
