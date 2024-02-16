@@ -31,4 +31,4 @@ Swagger is available on root url such as __localhost:8080/__, it will redirect t
 
 You can read an example of the 2021 report here: [ria-rating-report-2021.xls](src/main/resources/readme/ria-rating-report-2021.xls)
 
-__P.S.__ Of course, you need to remember that the RIA Rating agency is under the sanctions of the EU, UK, USA and other countries. So, be smart and separate the wheat from the chaff!
+__P.S.__ Of course, you need to remember that the head office of the RIA Rating agency is under the sanctions of the EU, UK, USA and other countries. So, be smart and separate the wheat from the chaff!
